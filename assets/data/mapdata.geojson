@@ -4,16 +4,41 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abiding Christ ESOL",
-        "address": "326 E. Dayton-Yellow Springs Rd.",
+        "name": "Tates Creek Branch Library(Meets on Mondays June 2nd—August 11th)",
+        "address": "3628 Walden Dr.",
         "address2": "",
-        "city": "Fairborn",
-        "state": "OH",
-        "zip": 45324,
-        "time": "M, T, TH 9:00-12:00, M/W 5:30pm-8:00pm",
-        "contact": "Dani Heeter",
-        "email": "dheeter@mvctc.com",
-        "phone": "937-343-1999",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40517,
+        "time": "M 6:30pm-8:00pm, M/W 5:30pm-8:00pm",
+        "contact": "unknown",
+        "email": "unknown",
+        "phone": "unknown",  
+        "open_enrollment": "yes",
+        "childcare": "unknown",
+        "skill_level": "Intermediate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.498671,
+          37.979405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northside Branch Library - Reading/Writing Literacy Class",
+        "address": "1733 Russell Cave Rd.",
+        "address2": "",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40505,
+        "time": "M 6:30pm-8:00pm",
+        "contact": "John",
+        "email": "hamfaster@outlook.com",
+        "phone": "unknown",
         "open_enrollment": "yes",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -21,124 +46,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.016617,
-          39.787371
+          -84.471351,
+          38.079469
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Belmont United Methodist Church",
-        "address": "2701 S. Smithville Rd.",
+        "name": "Beaumont Branch Library(Meets on Mondays starting June 9th)",
+        "address": "3080 Fieldstone Way",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45420,
-        "time": "M 7:30pm-8:30pm",
-        "contact": "Pastor Randy Coleman",
-        "email": "rcoleman40@gmail.com",
-        "phone": "937-254-1788",
-        "open_enrollment": "yes",
-        "childcare": "yes",
-        "skill_level": "Beginner and Intermediate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.141549,
-          39.726884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Christ the King Reformed Episcopal Church",
-        "address": "925 North Main St.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45405,
-        "time": "",
-        "contact": "Pam Laugh",
-        "email": "pamlaugh@gmail.com",
-        "phone": "937-224-8555",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.198037,
-          39.773318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dayton Chinese Christian Church",
-        "address": "600 Patterson Rd.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45419,
-        "time": "",
-        "contact": "Rev. James Chun-Min Yeh",
-        "email": "chunminyeh@hotmail.com",
-        "phone": "937-299-9595",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.159255,
-          39.724553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dayton Metro Library",
-        "address": "215 East Third St.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45402,
-        "time": "",
-        "contact": "Mimi Morris",
-        "email": "contactweb@daytonmetrolibrary.org",
-        "phone": "937-463-2665",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.187272,
-          39.760295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dayton Red Cross ESOL",
-        "address": "370 West First St.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45404,
-        "time": "M, T, W 6:30-9:00",
-        "contact": "Dani Heeter",
-        "email": "dheeter@mvctc.com",
-        "phone": "937-271-5095",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 45413,
+        "time": "M 7:30pm-8:45pm",
+        "contact": "Chuck",
+        "email": "unknown",
+        "phone": "859-388-0793",
         "open_enrollment": "yes",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -146,24 +71,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.198117,
-          39.761434
+          -84.557527,
+          38.012922
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Kroc Center  ESOL",
-        "address": "1000 N. Keowee St.",
+        "name": "Northside Branch Library",
+        "address": "1733 Russell Cave Rd.",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45404,
-        "time": "M, W 9:00-11:30, Sat 11:00-1:30pm",
-        "contact": "Dani Heeter",
-        "email": "dheeter@mvctc.com",
-        "phone": "937-854-6287",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40505,
+        "time": "T 5:30pm-7:00pm",
+        "contact": "Steve",
+        "email": "sbfish00@uky.edu",
+        "phone": "unknown",
         "open_enrollment": "yes",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -171,24 +96,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.18483,
-          39.778169
+          -84.471351,
+          38.079469
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Life Enrichment Center",
-        "address": "425 North Findlay St.",
+        "name": "Bethal Community Church",
+        "address": "436 Fairman Rd.",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45404,
-        "time": "",
-        "contact": "Jenny Ritzel",
-        "email": "jritzel@aol.com",
-        "phone": "937-409-9191",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 45411,
+        "time": "T 8:00pm-9:30pm",
+        "contact": "Francis(leave a message)",
+        "email": "unknown",
+        "phone": "859-552-3002",
         "open_enrollment": "no",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -196,24 +121,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.159066,
-          39.771727
+          -84.521251,
+          38.077205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Project READ Helpline at Sinclair Community College",
-        "address": "444 West Third St.",
+        "name": "Northside Branch Library",
+        "address": "1733 Russell Cave Rd.",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45402,
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40505,
+        "time": "TH 7:30pm-8:30pm",
+        "contact": "Kim",
+        "email": "unknown",
+        "phone": "unknown",
+        "open_enrollment": "yes",
+        "childcare": "unknown",
+        "skill_level": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.471351,
+          38.079469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission House(Brick house with rock fence. Enter side
+door under covered area. RING BELL.)",
+        "address": "203 E. Fourth St.",
+        "address2": "",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 45408,
+        "time": "F 7:30pm-8:45pm",
+        "contact": "Jim",
+        "email": "unknown",
+        "phone": "859-255-3601",
+        "open_enrollment": "yes",
+        "childcare": "unknown",
+        "skill_level": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.488282,
+          38.049463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BLUEGRASS COMMUNITY AND TECHNICAL COLLEGE & OPERATION READ",
+        "address": "470 Cooper Dr",
+        "address2": "",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40502,
         "time": "",
-        "contact": "Amy Wittmann",
-        "email": "amy.wittmann@sinclair.edu",
-        "phone": "937-461-7323",
+        "contact": "",
+        "email": "BCTCAdultEd.Fayette@kctcs.edu",
+        "phone": "859-246-6611",
         "open_enrollment": "no",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -221,24 +197,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.199182,
-          39.758271
+          -84.502433,
+          38.024544
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Sinclair Community College",
-        "address": "444 West Third St.",
+        "name": "Central Library - English Conversaion(Starting September 17th)",
+        "address": "140 E. MAIN ST.",
+        "address2": "Conference Room C, 4th Floor",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40507,
+        "time": "W 12:30pm-2:00pm",
+        "contact": "Lindsay Mattingly",
+        "email": "Lmattingly@lexpublib.org",
+        "phone": "859-231-5514",
+        "open_enrollment": "yes",
+        "childcare": "unknown",
+        "skill_level": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.866825,
+          35.926212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Center for ESL (CESL) By University of Kentucky [For Applications and Admissions]",
+        "address": "1235 Patterson Office Tower",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45402,
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40506-0027,
         "time": "",
         "contact": "Paul Carbonaro",
-        "email": "paul.carbonaro@sinclair.edu",
-        "phone": "937-512-3099",
+        "email": "https://esl.as.uky.edu",
+        "phone": "859-257-7003 or 859-257-6998",
         "open_enrollment": "no",
         "childcare": "unknown",
         "skill_level": "unknown"
@@ -246,27 +247,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.199182,
-          39.758271
+          -84.504268,
+          38.038649
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "South Dayton Presbyterian Church",
-        "address": "1180 East Alex Bell Rd.",
-        "address2": "",
-        "city": "Centerville",
-        "state": "OH",
-        "zip": 45459,
-        "time": "W 7:00pm-9:00pm",
-        "contact": "Firmino de Almeida",
-        "email": "esl@southdaytonpca.com",
+        "name": "UK DEPARTMENT OF GRADUATE AND FAMILY HOUSING ESL",
+        "address": "Shawneetown D,",
+        "address2": "community room",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40508,
+        "time": "M, T 7:00pm-8:00pm, W 10:00am-11:30am, TH 10:00am-11:00am",
+        "contact": "",
+        "email": "www.ukesl.org",
         "phone": "937-433-1022",
         "open_enrollment": "yes",
-        "childcare": "no",
-        "skill_level": "Five levels: Foundations; Level1, 2, 3 and 4"
+        "childcare": "unknown",
+        "skill_level": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -279,200 +280,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "St. Johns United Church ESOL",
-        "address": "515 East Third St.",
+        "name": "PORTER MEMORIAL BAPTIST CHURCH",
+        "address": "4300 Nicholasville Road",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45402,
-        "time": "M-F, 9:00-12:00",
-        "contact": "Dani Heeter",
-        "email": "dheeter@mvctc.com",
-        "phone": "937-461-3332",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.183825,
-          39.760823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "St. Paul's United Methodist Church",
-        "address": "101 Huffman Ave.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45403,
-        "time": "M 6:00pm-8:00pm, TR 10:00-12:00pm",
-        "contact": "Rebekah Clapp or Tawnya Lambert",
-        "email": "office@stpauldayton.org",
-        "phone": "937-252-4467",
-        "open_enrollment": "yes",
-        "childcare": "yes",
-        "skill_level": "Beginner and Intermediate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.166746,
-          39.760309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sulphur Grove United Methodist Church ESOL",
-        "address": "7505 Taylorsville Rd.",
-        "address2": "",
-        "city": "Huber Heights",
-        "state": "OH",
-        "zip": 45424,
-        "time": "M, W, F 9:30-12:30",
-        "contact": "Dani Heeter",
-        "email": "dheeter@mvctc.com",
-        "phone": "937-235-5783",
-        "open_enrollment": "yes",
-        "childcare": "yes",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.098945,
-          39.860594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "University of Dayton",
-        "address": "300 College Park Ave.",
-        "address2": "Alumni Hall Room 012",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45469,
-        "time": "",
-        "contact": "Karin Avila-John",
-        "email": "kavilajohn1@udayton.edu",
-        "phone": "937-229-3571",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.180349,
-          39.740627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Wright State University",
-        "address": "3640 Colonel Glenn Hwy",
-        "address2": "133 Allyn Hall",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45435,
-        "time": "",
-        "contact": "LEAP Intensive English Program",
-        "email": "jeannette.horwitz@wright.edu",
-        "phone": "937-775-2935",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.06249,
-          39.777694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Redeemer Orthodox Presbyterian",
-        "address": "22 S. Fairfield Rd.",
-        "address2": "",
-        "city": "Beavercreek",
-        "state": "OH",
-        "zip": 45440,
-        "time": "TH 6:45-8:45",
-        "contact": "",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": 40515,
+        "time": "M 9:30am-11:30am, W 6:30pm-8:00pm",
+        "contact": "Rene' Bibb",
         "email": "",
-        "phone": "937-426-9965",
-        "open_enrollment": "unknown",
-        "childcare": "yes",
-        "skill_level": "Beginner, Intermediate, Advanced"
+        "phone": "859-272-3441 or 859-223-5496",
+        "open_enrollment": "yes",
+        "childcare": "unknown",
+        "skill_level": "Four class levels are offered on Monday and Wednesday, Transportation is provided for the Monday morning classes only."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.06619,
-          39.692559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kettering ABLE Programs at St. Mary's Center",
-        "address": "427 Steele Ave.",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zip": 45410,
-        "time": "T/TH 9:00-12:00pm, W 9:00-11:30",
-        "contact": "Katie Miller, coordinator T.J. Armstrong, asst. coordinator",
-        "email": "katie.miller@ketteringschools.org",
-        "phone": "937-426-9965",
-        "open_enrollment": "no",
-        "childcare": "no",
-        "skill_level": "Beginner and Intermediate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.16768900000001,
-          39.753784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kettering ABLE Programs at D.L. Barnes Building",
-        "address": "3700 Far Hills Ave.",
-        "address2": "",
-        "city": "Kettering",
-        "state": "OH",
-        "zip": 45429,
-        "time": "M/W 12:30pm-2:30pm, T/W/TR 9:00-12:00pm, T/TR 6:00pm-8:00pm",
-        "contact": "Katie Miller, coordinator T.J. Armstrong, asst. coordinator",
-        "email": "katie.miller@ketteringschools.org",
-        "phone": "937-426-9965",
-        "open_enrollment": "no",
-        "childcare": "no",
-        "skill_level": "Beginner, Intermediate, Advanced"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.166956,
-          39.69353600000001
+          -84.529296,
+          37.973141
         ]
       }
     }
