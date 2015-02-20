@@ -1,306 +1,305 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tates Creek Branch Library(Meets on Mondays June 2nd—August 11th)",
-        "address": "3628 Walden Dr.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40517,
-        "time": "M 6:30pm-8:00pm, M/W 5:30pm-8:00pm",
-        "contact": "unknown",
-        "email": "unknown",
-        "phone": "unknown",  
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "Intermediate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.498671,
-          37.979405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Northside Branch Library - Reading/Writing Literacy Class",
-        "address": "1733 Russell Cave Rd.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40505,
-        "time": "M 6:30pm-8:00pm",
-        "contact": "John",
-        "email": "hamfaster@outlook.com",
-        "phone": "unknown",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.471351,
-          38.079469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Beaumont Branch Library(Meets on Mondays starting June 9th)",
-        "address": "3080 Fieldstone Way",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 45413,
-        "time": "M 7:30pm-8:45pm",
-        "contact": "Chuck",
-        "email": "unknown",
-        "phone": "859-388-0793",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.557527,
-          38.012922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Northside Branch Library",
-        "address": "1733 Russell Cave Rd.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40505,
-        "time": "T 5:30pm-7:00pm",
-        "contact": "Steve",
-        "email": "sbfish00@uky.edu",
-        "phone": "unknown",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.471351,
-          38.079469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bethal Community Church",
-        "address": "436 Fairman Rd.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 45411,
-        "time": "T 8:00pm-9:30pm",
-        "contact": "Francis(leave a message)",
-        "email": "unknown",
-        "phone": "859-552-3002",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.521251,
-          38.077205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Northside Branch Library",
-        "address": "1733 Russell Cave Rd.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40505,
-        "time": "TH 7:30pm-8:30pm",
-        "contact": "Kim",
-        "email": "unknown",
-        "phone": "unknown",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.471351,
-          38.079469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mission House(Brick house with rock fence. Enter side
-door under covered area. RING BELL.)",
-        "address": "203 E. Fourth St.",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 45408,
-        "time": "F 7:30pm-8:45pm",
-        "contact": "Jim",
-        "email": "unknown",
-        "phone": "859-255-3601",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.488282,
-          38.049463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BLUEGRASS COMMUNITY AND TECHNICAL COLLEGE & OPERATION READ",
-        "address": "470 Cooper Dr",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40502,
-        "time": "",
-        "contact": "",
-        "email": "BCTCAdultEd.Fayette@kctcs.edu",
-        "phone": "859-246-6611",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.502433,
-          38.024544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Central Library - English Conversaion(Starting September 17th)",
-        "address": "140 E. MAIN ST.",
-        "address2": "Conference Room C, 4th Floor",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40507,
-        "time": "W 12:30pm-2:00pm",
-        "contact": "Lindsay Mattingly",
-        "email": "Lmattingly@lexpublib.org",
-        "phone": "859-231-5514",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.866825,
-          35.926212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Center for ESL (CESL) By University of Kentucky [For Applications and Admissions]",
-        "address": "1235 Patterson Office Tower",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40506-0027,
-        "time": "",
-        "contact": "Paul Carbonaro",
-        "email": "https://esl.as.uky.edu",
-        "phone": "859-257-7003 or 859-257-6998",
-        "open_enrollment": "no",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.504268,
-          38.038649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "UK DEPARTMENT OF GRADUATE AND FAMILY HOUSING ESL",
-        "address": "Shawneetown D,",
-        "address2": "community room",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40508,
-        "time": "M, T 7:00pm-8:00pm, W 10:00am-11:30am, TH 10:00am-11:00am",
-        "contact": "",
-        "email": "www.ukesl.org",
-        "phone": "937-433-1022",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "unknown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.13586,
-          39.643112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PORTER MEMORIAL BAPTIST CHURCH",
-        "address": "4300 Nicholasville Road",
-        "address2": "",
-        "city": "Lexington",
-        "state": "KY",
-        "zip": 40515,
-        "time": "M 9:30am-11:30am, W 6:30pm-8:00pm",
-        "contact": "Rene' Bibb",
-        "email": "",
-        "phone": "859-272-3441 or 859-223-5496",
-        "open_enrollment": "yes",
-        "childcare": "unknown",
-        "skill_level": "Four class levels are offered on Monday and Wednesday, Transportation is provided for the Monday morning classes only."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.529296,
-          37.973141
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tates Creek Branch Library(Meets on Mondays June 2nd—August 11th)",
+                "address": "3628 Walden Dr.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40517,
+                "time": "M 6:30pm-8:00pm, M/W 5:30pm-8:00pm",
+                "contact": "unknown",
+                "email": "unknown",
+                "phone": "unknown",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "Intermediate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.498671,
+                    37.979405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Northside Branch Library - Reading/Writing Literacy Class",
+                "address": "1733 Russell Cave Rd.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40505,
+                "time": "M 6:30pm-8:00pm",
+                "contact": "John",
+                "email": "hamfaster@outlook.com",
+                "phone": "unknown",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.471351,
+                    38.079469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beaumont Branch Library(Meets on Mondays starting June 9th)",
+                "address": "3080 Fieldstone Way",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 45413,
+                "time": "M 7:30pm-8:45pm",
+                "contact": "Chuck",
+                "email": "unknown",
+                "phone": "859-388-0793",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.557527,
+                    38.012922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Northside Branch Library",
+                "address": "1733 Russell Cave Rd.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40505,
+                "time": "T 5:30pm-7:00pm",
+                "contact": "Steve",
+                "email": "sbfish00@uky.edu",
+                "phone": "unknown",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.471351,
+                    38.079469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bethal Community Church",
+                "address": "436 Fairman Rd.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 45411,
+                "time": "T 8:00pm-9:30pm",
+                "contact": "Francis(leave a message)",
+                "email": "unknown",
+                "phone": "859-552-3002",
+                "open_enrollment": "no",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.521251,
+                    38.077205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Northside Branch Library",
+                "address": "1733 Russell Cave Rd.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40505,
+                "time": "TH 7:30pm-8:30pm",
+                "contact": "Kim",
+                "email": "unknown",
+                "phone": "unknown",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.471351,
+                    38.079469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mission House(Brick house with rock fence. Enter side door under covered area. RING BELL.)",
+                "address": "203 E. Fourth St.",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 45408,
+                "time": "F 7:30pm-8:45pm",
+                "contact": "Jim",
+                "email": "unknown",
+                "phone": "859-255-3601",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.488282,
+                    38.049463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BLUEGRASS COMMUNITY AND TECHNICAL COLLEGE & OPERATION READ",
+                "address": "470 Cooper Dr",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40502,
+                "time": "",
+                "contact": "",
+                "email": "BCTCAdultEd.Fayette@kctcs.edu",
+                "phone": "859-246-6611",
+                "open_enrollment": "no",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.502433,
+                    38.024544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Library - English Conversaion(Starting September 17th)",
+                "address": "140 E. MAIN ST.",
+                "address2": "Conference Room C, 4th Floor",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40507,
+                "time": "W 12:30pm-2:00pm",
+                "contact": "Lindsay Mattingly",
+                "email": "Lmattingly@lexpublib.org",
+                "phone": "859-231-5514",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.866825,
+                    35.926212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Center for ESL (CESL) By University of Kentucky [For Applications and Admissions]",
+                "address": "1235 Patterson Office Tower",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40506,
+                "time": "",
+                "contact": "Paul Carbonaro",
+                "email": "https://esl.as.uky.edu",
+                "phone": "859-257-7003 or 859-257-6998",
+                "open_enrollment": "no",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.504268,
+                    38.038649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UK DEPARTMENT OF GRADUATE AND FAMILY HOUSING ESL",
+                "address": "Shawneetown D,",
+                "address2": "community room",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40508,
+                "time": "M, T 7:00pm-8:00pm, W 10:00am-11:30am, TH 10:00am-11:00am",
+                "contact": "",
+                "email": "www.ukesl.org",
+                "phone": "937-433-1022",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.13586,
+                    39.643112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTER MEMORIAL BAPTIST CHURCH",
+                "address": "4300 Nicholasville Road",
+                "address2": "",
+                "city": "Lexington",
+                "state": "KY",
+                "zip": 40515,
+                "time": "M 9:30am-11:30am, W 6:30pm-8:00pm",
+                "contact": "Rene' Bibb",
+                "email": "",
+                "phone": "859-272-3441 or 859-223-5496",
+                "open_enrollment": "yes",
+                "childcare": "unknown",
+                "skill_level": "Four class levels are offered on Monday and Wednesday, Transportation is provided for the Monday morning classes only."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.529296,
+                    37.973141
+                ]
+            }
+        }
+    ]
 }
